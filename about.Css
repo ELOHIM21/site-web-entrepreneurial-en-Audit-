@@ -1,0 +1,120 @@
+/* ===== GLOBAL ===== */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    background: #fff;
+}
+
+.container {
+    width: 1100px;
+    margin: auto;
+}
+
+/* ===== HEADER ===== */
+.header {
+    background: #0b1f3a;
+    padding: 15px 0;
+}
+
+.nav__link {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+.nav__link:hover {
+    color: #d81b60;
+}
+
+/* ===== HERO ===== */
+.breadcurmb-section {
+    background: #0b1f3a;
+    color: white;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.breadcurmb-title h1 {
+    font-size: 36px;
+}
+
+/* ===== SECTION ===== */
+.section {
+    padding: 60px 0;
+}
+
+.section-title {
+    margin-bottom: 30px;
+}
+
+.section-title h2 {
+    color: #0b1f3a;
+    font-size: 28px;
+}
+
+.title-tag {
+    color: #d81b60;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+/* ===== TEXTE ===== */
+.page-content {
+    max-width: 800px;
+}
+
+.page-content p {
+    line-height: 1.7;
+    margin-bottom: 15px;
+}
+
+/* ===== IMAGE ===== */
+.about-image img {
+    width: 100%;
+}
+
+/* ===== VALEURS / BLOCS ===== */
+.grid {
+    display: flex;
+    gap: 20px;
+}
+
+.card {
+    flex: 1;
+    border: 1px solid #eee;
+    padding: 25px;
+    background: #fff;
+}
+
+.card h3 {
+    color: #0b1f3a;
+}
+
+/* ===== CTA ===== */
+.call-to-action-section {
+    background: #0b1f3a;
+    color: white;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.button {
+    background: #d81b60;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
+
+.button:hover {
+    background: #0b1f3a;
+    border: 1px solid #d81b60;
+}
+
+/* ===== FOOTER ===== */
+.footer {
+    background: #0b1f3a;
+    color: white;
+    padding: 30px 0;
+    text-align: center;
+}

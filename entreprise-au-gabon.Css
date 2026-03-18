@@ -1,0 +1,99 @@
+/* ===== GLOBAL ===== */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #fff;
+}
+
+.container {
+    width: 1100px;
+    margin: auto;
+}
+
+/* ===== HEADER ===== */
+.header {
+    background: #0b1f3a;
+    padding: 15px;
+}
+
+/* ===== HERO ===== */
+.breadcurmb-section {
+    background: #0b1f3a;
+    color: white;
+    padding: 80px;
+    text-align: center;
+}
+
+.breadcurmb-title h1 {
+    font-size: 34px;
+}
+
+/* ===== SECTION ===== */
+.section {
+    padding: 60px 0;
+}
+
+/* ===== TITRES ===== */
+.section-title h2 {
+    color: #0b1f3a;
+    font-size: 26px;
+}
+
+.title-tag {
+    color: #d81b60;
+    font-size: 13px;
+}
+
+/* ===== TEXTE ===== */
+.page-content {
+    max-width: 800px;
+}
+
+.page-content p {
+    line-height: 1.7;
+    margin-bottom: 15px;
+}
+
+/* ===== LISTES ===== */
+.page-content ul {
+    padding-left: 20px;
+}
+
+.page-content li {
+    margin-bottom: 10px;
+}
+
+/* ===== BLOCS ===== */
+.grid {
+    display: flex;
+    gap: 20px;
+}
+
+.card {
+    flex: 1;
+    border: 1px solid #eee;
+    padding: 20px;
+}
+
+/* ===== CTA ===== */
+.call-to-action-section {
+    background: #0b1f3a;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+
+.button {
+    background: #d81b60;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
+
+/* ===== FOOTER ===== */
+.footer {
+    background: #0b1f3a;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
